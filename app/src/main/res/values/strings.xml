@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="home_title">Welcome to ALC 4.0</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My Profile</string>
+
+    <string name="placeholder_name">Acheampong Lord</string>
+    <string name="placeholder_track">Android</string>
+    <string name="placeholder_country">Ghana</string>
+    <string name="placeholder_email">offeilord@gmail.com</string>
+    <string name="placeholder_phone">+233200746417</string>
+    <string name="placeholder_slack_username">%1$s</string>
+
+
+</resources>
